@@ -1,0 +1,15 @@
+* {
+  font-family: 'Cutive Mono', monospace;
+}
+
+.num-input {
+  width: 80px
+}
+
+h3 {
+  margin-left: 10px;
+}
+
+.d-inline-flex {
+  margin-left: 10px;
+}
